@@ -1,0 +1,243 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:1-72:12
+	package
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:70-119
+	android:versionName
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:167-192
+		INJECTED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml
+		INJECTED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:120-166
+	android:versionCode
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:193-216
+		INJECTED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml
+		INJECTED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:2:217-257
+supports-screens
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:4:3-55:17
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/sashohadzhiev/.android/build-cache/bf1d04fea4ee01c87708832f36f9246db656b1bb/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/sashohadzhiev/.android/build-cache/3eb08cc2e7add162ed5cdb241c43d6420af35742/output/AndroidManifest.xml:23:5-19
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/sashohadzhiev/.android/build-cache/c9d58df39e1a0087a7e90da687c838a5032795d5/output/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/sashohadzhiev/.android/build-cache/cf76fe450ebb42ff25839ec45c96f4dd8a6393d1/output/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.2.0] /Users/sashohadzhiev/.android/build-cache/8efca2d036f7c32a6c97a722bb218e0f90433632/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/sashohadzhiev/.android/build-cache/efd1aa327f5d302b884892d4d0e1865dc00f81a3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/sashohadzhiev/.android/build-cache/34e2d306c811242dd00daeabc9e206434715b365/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/sashohadzhiev/.android/build-cache/22f23981e24dae97c653fc5103528df9ae66cd1f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/sashohadzhiev/.android/build-cache/b641669e21bdc41f9551a51f68deced69cfb7b46/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.2.0] /Users/sashohadzhiev/.android/build-cache/ce01776a885eb192955aeacd2802f58e48a90e04/output/AndroidManifest.xml:25:5-20
+	android:label
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:4:92-124
+	android:icon
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:4:58-91
+	android:banner
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:4:147-184
+	android:theme
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:4:125-146
+activity#com.gcmTestingBuildComp.GcmTestingBuild.UnityPlayerActivity
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:5:48-86
+	android:label
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:5:15-47
+	android:launchMode
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:5:87-118
+	android:configChanges
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:5:119-292
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:5:293-367
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER+android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:11:18-58
+receiver#com.google.android.gms.gcm.GcmReceiver
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:14:5-23:16
+	android:exported
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:16:9-32
+	android:permission
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:15:9-62
+intent-filter#com.gcmTestingBuildComp.GcmTestingBuild+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:18:7-22:23
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:19:9-73
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:19:17-70
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:20:9-78
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:20:17-75
+category#com.gcmTestingBuildComp.GcmTestingBuild
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:21:9-76
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:21:19-73
+receiver#com.leanplum.LeanplumPushReceiver
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:25:5-32:16
+	android:exported
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:26:9-57
+intent-filter#com.leanplum.LeanplumPushListenerService
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:28:7-31:23
+action#com.leanplum.LeanplumPushListenerService
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:30:9-75
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:30:17-72
+service#com.leanplum.LeanplumLocalPushListenerService
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:34:5-77
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:34:14-74
+service#com.leanplum.LeanplumPushRegistrationService
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:36:5-76
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:36:14-73
+service#com.leanplum.LeanplumPushListenerService
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:38:5-44:15
+	android:exported
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:40:9-33
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:39:9-64
+intent-filter#com.google.android.c2dm.intent.RECEIVE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:41:7-43:23
+service#com.leanplum.LeanplumPushInstanceIDService
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:46:5-52:15
+	android:exported
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:48:9-33
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:47:9-66
+intent-filter#com.google.android.gms.iid.InstanceID
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:49:7-51:23
+action#com.google.android.gms.iid.InstanceID
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:50:9-72
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:50:17-69
+uses-sdk
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:57:3-72
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/sashohadzhiev/.android/build-cache/bf1d04fea4ee01c87708832f36f9246db656b1bb/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/sashohadzhiev/.android/build-cache/3eb08cc2e7add162ed5cdb241c43d6420af35742/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.4] /Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.4] /Users/sashohadzhiev/.android/build-cache/c9d58df39e1a0087a7e90da687c838a5032795d5/output/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.4] /Users/sashohadzhiev/.android/build-cache/cf76fe450ebb42ff25839ec45c96f4dd8a6393d1/output/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.2.0] /Users/sashohadzhiev/.android/build-cache/8efca2d036f7c32a6c97a722bb218e0f90433632/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.2.0] /Users/sashohadzhiev/.android/build-cache/efd1aa327f5d302b884892d4d0e1865dc00f81a3/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.2.0] /Users/sashohadzhiev/.android/build-cache/34e2d306c811242dd00daeabc9e206434715b365/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.2.0] /Users/sashohadzhiev/.android/build-cache/22f23981e24dae97c653fc5103528df9ae66cd1f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.2.0] /Users/sashohadzhiev/.android/build-cache/b641669e21bdc41f9551a51f68deced69cfb7b46/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.2.0] /Users/sashohadzhiev/.android/build-cache/ce01776a885eb192955aeacd2802f58e48a90e04/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.2.0] /Users/sashohadzhiev/.android/build-cache/8efca2d036f7c32a6c97a722bb218e0f90433632/output/AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:57:40-69
+		INJECTED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml
+		INJECTED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:57:13-39
+uses-feature#0x00020000
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:60:3-52
+	android:glEsVersion
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:60:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:61:3-65
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/sashohadzhiev/.android/build-cache/bf1d04fea4ee01c87708832f36f9246db656b1bb/output/AndroidManifest.xml:21:5-66
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/sashohadzhiev/.android/build-cache/3eb08cc2e7add162ed5cdb241c43d6420af35742/output/AndroidManifest.xml:21:5-66
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:61:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:62:3-106
+	android:maxSdkVersion
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:62:77-103
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:62:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:63:3-105
+	android:maxSdkVersion
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:63:76-102
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:63:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:64:3-88
+	android:required
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:64:61-85
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:64:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:65:3-99
+	android:required
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:65:72-96
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:65:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:66:3-108
+	android:required
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:66:81-105
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:66:17-80
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:67:3-77
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:67:20-74
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:68:3-79
+MERGED from [com.google.android.gms:play-services-gcm:11.0.4] /Users/sashohadzhiev/.android/build-cache/bf1d04fea4ee01c87708832f36f9246db656b1bb/output/AndroidManifest.xml:20:5-81
+MERGED from [com.google.android.gms:play-services-iid:11.0.4] /Users/sashohadzhiev/.android/build-cache/3eb08cc2e7add162ed5cdb241c43d6420af35742/output/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:68:20-77
+permission#com.gcmTestingBuildComp.GcmTestingBuild.permission.C2D_MESSAGE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:69:3-70:45
+	android:protectionLevel
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:70:7-42
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:69:15-92
+uses-permission#com.gcmTestingBuildComp.GcmTestingBuild.permission.C2D_MESSAGE
+ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:71:3-100
+	android:name
+		ADDED from /Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/src/main/AndroidManifest.xml:71:20-97
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.4] /Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/sashohadzhiev/.android/build-cache/cf76fe450ebb42ff25839ec45c96f4dd8a6393d1/output/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/sashohadzhiev/.android/build-cache/cf76fe450ebb42ff25839ec45c96f4dd8a6393d1/output/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.4] /Users/sashohadzhiev/.android/build-cache/cf76fe450ebb42ff25839ec45c96f4dd8a6393d1/output/AndroidManifest.xml:20:20-65

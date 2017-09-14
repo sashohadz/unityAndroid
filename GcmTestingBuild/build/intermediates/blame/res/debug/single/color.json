@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_dark.xml",
+        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/color/common_plus_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/color/common_plus_signin_btn_text_light.xml",
+        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/color/common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/res/color/common_google_signin_btn_text_light.xml"
+    }
+]
