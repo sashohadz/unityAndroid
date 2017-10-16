@@ -1,7 +1,7 @@
 [
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_focused.9.png",
@@ -21,11 +21,11 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
@@ -33,7 +33,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_normal.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
@@ -65,7 +65,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
@@ -89,7 +89,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_normal.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
@@ -101,7 +101,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/googleg_standard_color_18.png",
@@ -109,7 +109,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png",
@@ -121,7 +121,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_ic_googleplayservices.png",
@@ -133,7 +133,7 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
@@ -153,10 +153,10 @@
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/res/merged/debug/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
-        "source": "/Users/sashohadzhiev/.android/build-cache/0c2315662e424a45e74a7bbf9605fd535b90b1c4/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
+        "source": "/Users/sashohadzhiev/.android/build-cache/f45880fddbd00a8ef9b92141f206a81d40378135/output/res/drawable-hdpi-v4/common_google_signin_btn_text_dark_disabled.9.png"
     }
 ]

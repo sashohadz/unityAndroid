@@ -108,6 +108,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         public static final int common_google_signin_btn_text_light_normal_background=0x7f020014;
         public static final int googleg_disabled_color_18=0x7f020015;
         public static final int googleg_standard_color_18=0x7f020016;
+        public static final int itest=0x7f020017;
     }
     public static final class id {
         public static final int adjust_height=0x7f070000;

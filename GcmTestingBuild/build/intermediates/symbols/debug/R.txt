@@ -38,6 +38,7 @@ int drawable common_google_signin_btn_text_light_normal 0x7f020013
 int drawable common_google_signin_btn_text_light_normal_background 0x7f020014
 int drawable googleg_disabled_color_18 0x7f020015
 int drawable googleg_standard_color_18 0x7f020016
+int drawable itest 0x7f020017
 int id adjust_height 0x7f070000
 int id adjust_width 0x7f070001
 int id auto 0x7f070006

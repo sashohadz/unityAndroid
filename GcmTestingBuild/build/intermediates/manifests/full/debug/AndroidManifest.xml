@@ -46,6 +46,7 @@
     <uses-permission android:name="com.gcmTestingBuildComp.GcmTestingBuild.permission.C2D_MESSAGE" />
 
     <application
+        android:name="com.gcmTestingBuildComp.GcmTestingBuild.MyApplication"
         android:banner="@drawable/app_banner"
         android:icon="@drawable/app_icon"
         android:isGame="true"

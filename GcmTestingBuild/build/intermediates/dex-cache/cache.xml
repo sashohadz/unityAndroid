@@ -3,30 +3,12 @@
 
     <item
         is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/efd1aa327f5d302b884892d4d0e1865dc00f81a3/output/jars/classes.jar"
+        jar="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/libs/unity-classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_39bd652c5d5f30a22d08c359af531074a049ef86.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/bf1d04fea4ee01c87708832f36f9246db656b1bb/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_b8faaf061cca00f034e405687cf5ff655692cf1d.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/ce01776a885eb192955aeacd2802f58e48a90e04/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_2d400e0095b613686aa8b000cdaa8ca224b6f68d.jar" />
+        sha1="92335a5db906348f970c73eda54f0e39749c3b8a">
+        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/unity-classes_a2f497a5a2257d18b08fe698005b4f7821e7eb99.jar" />
     </item>
     <item
         is-multidex="false"
@@ -39,39 +21,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/3eb08cc2e7add162ed5cdb241c43d6420af35742/output/jars/classes.jar"
+        jar="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/libs/LeanplumUnity-1.4.3.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
-        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_318398494be0fe234df8441c638b680747d2836a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/b641669e21bdc41f9551a51f68deced69cfb7b46/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_c2c6f977a64fe0ba6971d2e8c1fbb1453ce0fbe0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/c9d58df39e1a0087a7e90da687c838a5032795d5/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_dbf05e87045c13a8e0c3c4204c32d9b59490df67.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/34e2d306c811242dd00daeabc9e206434715b365/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_d2a0564b89ec620b18ef62f083f33b52a1eb7165.jar" />
+        sha1="4d24a23b138d441ba574601331511a05c234e4c1">
+        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/LeanplumUnity-1.4.3_21c9a82d6050950b1fb1faf32ed0e8ae6c15505e.jar" />
     </item>
     <item
         is-multidex="false"
@@ -81,24 +36,6 @@
         revision="25.0.2"
         sha1="d073ba0787bb5f4f8fab2254145dfb19f21d2313">
         <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/Leanplum-2.2.3_8027ef05c189bd8b38d9b3d5b355e3f4b64f82b1.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_70d9e0345b5cd53f899c5cc93350388c46acf6cf.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/22f23981e24dae97c653fc5103528df9ae66cd1f/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_a8b4d52716687e5701db4711c6e5e39665eb2871.jar" />
     </item>
     <item
         is-multidex="false"
@@ -117,42 +54,6 @@
         revision="25.0.2"
         sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
         <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/appcompat-v7-26.0.0-alpha1_ef4e4037c4cb4f8b396e1cfb4331ecb0b36333e0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/libs/unity-classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="92335a5db906348f970c73eda54f0e39749c3b8a">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/unity-classes_a2f497a5a2257d18b08fe698005b4f7821e7eb99.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/cf76fe450ebb42ff25839ec45c96f4dd8a6393d1/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_b0a87dd4822a502b6ec98574cbafba6db535944e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/libs/LeanplumUnity-1.4.3.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="4d24a23b138d441ba574601331511a05c234e4c1">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/LeanplumUnity-1.4.3_21c9a82d6050950b1fb1faf32ed0e8ae6c15505e.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="/Users/sashohadzhiev/.android/build-cache/ee3385780f96c7e6a0f7440a54bd522f6b176cb8/output/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="/Users/sashohadzhiev/Documents/Unity/GcmTestingBuild/exportAndroid/GcmTestingBuild/build/intermediates/pre-dexed/debug/classes_53020d2d99b6d0545a73ce26e4e7bdc4a3778994.jar" />
     </item>
 
 </items>
